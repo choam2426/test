@@ -22,4 +22,4 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       
-      - uses: choam2426/GPT-algorithm-code-review@32f0e8cc2924b0d1c5ecac52f6cac9bf4bee79a6
+      - uses: choam2426/GPT-algorithm-code-review@main
